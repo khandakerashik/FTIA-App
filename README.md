@@ -74,7 +74,7 @@ To remove FTIA from your system, follow these steps:
 
 ## Contact Information
 
-For further assistance or questions, please reach out to the development team or refer to the official documentation.
+For further assistance or questions, please shoot an email to khandakeraashik@gmail.com.
 
 ---
 
@@ -82,7 +82,3 @@ For further assistance or questions, please reach out to the development team or
 > Khandaker Ashik — Information Security Administrator, Cybersecurity Researcher, Digital Forensics Enthusiast   
 > _“Turning disk images into intel.”_
 >
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
