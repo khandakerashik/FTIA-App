@@ -18,4 +18,4 @@ libxrender1
 
 Notes:
 - Python-side app dependencies are already bundled into the frozen app and the .deb.
-- The ftia-gui/ directory in this folder is the unpackaged frozen bundle for direct execution or inspection.
+
