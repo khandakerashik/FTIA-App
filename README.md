@@ -79,6 +79,6 @@ For further assistance or questions, please shoot an email to khandakeraashik@gm
 ---
 
 ## 👨‍🔬 Author
-> Khandaker Ashik — Information Security Administrator, Cybersecurity Researcher, Digital Forensics Enthusiast   
+> Khandaker Ashik — Information Security Administrator, Digital Forensics Enthusiast   
 > _“Turning disk images into intel.”_
 >
