@@ -12,7 +12,7 @@ Ensure that you have `sudo` access and the necessary dependencies installed on y
 ### Installation Steps
 
 #### Method 1: Using `install.sh` Script
-1. Open a terminal in the folder where the `ftia-gui_1.0.0_amd64.deb` package is located.
+1. Open a terminal in the folder where the `ftia-gui_4.0.0_amd64.deb` package is located.
 2. Run the following command to execute the `install.sh` script:
 
    ```bash
