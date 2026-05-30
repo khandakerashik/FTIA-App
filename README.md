@@ -27,7 +27,7 @@ Alternatively, you can install the `.deb` package directly with `apt`:
 1. Run the following command in your terminal:
 
    ```bash
-   sudo apt install ./ftia-gui_1.0.0_amd64.deb
+   sudo apt install ./ftia-gui_4.0.0_amd64.deb
    ```
 
    This will install the FTIA package and automatically resolve any required dependencies.
